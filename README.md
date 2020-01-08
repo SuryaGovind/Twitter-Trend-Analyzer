@@ -1,4 +1,4 @@
-# Twitter-Trend-Analyzer (Bollywood Trends):
+# Twitter-Trend-Analyzer (Bollywood Trends): With NLP (Natural Language Processing) and AI
    This project was done for spotle.ai, an online project and cources platform for AI, ML , DL. I have recieved a certificate of completion with 80% Grades.
    
 # Objective:
